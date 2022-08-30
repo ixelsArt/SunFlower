@@ -1,0 +1,53 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 0px 0px;
+  display: flex;
+
+  /* This centers the sketch horizontally. */
+  justify-content: center;
+
+  /* This centers the sketch vertically.  */
+  align-items: center;
+}
+
+#Menu {
+    font-family:Lucida Sans Unicode,Lucida Grande,sans-serif;
+    text-align: center;
+    width: 240px;
+    height: 55px;
+    position: absolute;
+    top: 10px;
+    left: 4px;
+    background-color: #eeeeee;
+    padding:0px 0px;
+    opacity: 0.9;
+    border:1px solid #cccccc;
+    border-radius: 10px;
+}
+
+#MenuBackground {
+    width: 239px;
+    height: 430px;
+    position: absolute;
+    top: 60px;
+    left: 2px;
+    outline-color: 'black';
+    outline-width: 2;
+    background-color: #00CED1;
+    padding:0px 0px;
+    opacity: 0.9;
+    border:1px solid #cccccc;
+    border-radius: 10px;
+}
+
+h4 {   
+color:'black';   
+font-family: Helvetica;   
+font-size:1.1em;   
+font-weight:300;   
+letter-spacing:.02em;   
+text-transform:none;   
+margin-top: 0px; }
