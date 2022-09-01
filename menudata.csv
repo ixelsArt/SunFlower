@@ -1,0 +1,8 @@
+Slider name,min,max,default,step
+Spiral Angle,135,140,137.5,0.01
+Loops,10,1000,500,1
+Polygon Sides,2,30,3,1
+Distance,1,100,4,1
+Poly Size,0,100,0,0.5
+Growth Factor,0,2,0.1,0.001
+Angle Offset,0,180,137.5,0.1
